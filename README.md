@@ -48,6 +48,16 @@ A relational database project built using MySQL to manage and analyze retail sal
 
 Retail_Sales_and_Inventory_Management_System.sql
 
+## Project Preview
+
+### Customer Spending Analysis
+
+![Customer Spending Rank](customer-spending-rank.png)
+
+### Order Details Analysis
+
+![Order Details Analysis](order-details-analysis.png)
+
 ## Author
 
 Sahara Rampal
